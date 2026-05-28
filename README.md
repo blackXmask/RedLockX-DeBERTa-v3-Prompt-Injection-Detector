@@ -249,14 +249,3 @@ Apache-2.0
 
 AI Security Research • NLP Security • Prompt Injection Defense
 
----
-
-<div align="center">
-
-# RedLockX 
-
-### Secure the Future of AI Systems
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:001F3F&height=140&section=footer"/>
-
-</div>
