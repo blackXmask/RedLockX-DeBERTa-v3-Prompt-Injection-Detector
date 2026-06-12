@@ -21,7 +21,6 @@
 ---
 
 # Overview
-
 RedLockX is an advanced multi-task NLP security model designed to detect:
 
 - Prompt Injection Attacks
